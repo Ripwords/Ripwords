@@ -7,24 +7,29 @@
   <a href = "mailto: teohjjteoh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 
-![img](./profile-3d-contrib/profile-season-animate.svg)
-</br>
-![image](https://user-images.githubusercontent.com/58784686/150777475-af8ac651-26a4-4d8a-b5b6-f8a81dc1181b.png)
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ripwords/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://github.com/Ripwords/Ripwords/blob/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ripwords/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/Ripwords/Ripwords/blob/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ripwords/snk/output/github-contribution-grid-snake.svg"
+    src="https://github.com/Ripwords/Ripwords/blob/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/58784686/150777475-af8ac651-26a4-4d8a-b5b6-f8a81dc1181b.png)
+
+<br>
+
+![img](./profile-3d-contrib/profile-season-animate.svg)
+
 
 <!-- GitHub Activity Graph -->
 <table align="center">
