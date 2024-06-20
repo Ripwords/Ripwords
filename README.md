@@ -11,7 +11,20 @@
 </br>
 ![image](https://user-images.githubusercontent.com/58784686/150777475-af8ac651-26a4-4d8a-b5b6-f8a81dc1181b.png)
 
-![Snake animation](https://github.com/ripwords/ripwords/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ripwords/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ripwords/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ripwords/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <!-- GitHub Activity Graph -->
 <table align="center">
