@@ -47,7 +47,7 @@
 <table align="center">
   <tr>
     <td colspan="2">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ripwords&area=true&hide_border=true&theme=redical" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ripwords&area=true&hide_border=true&theme=github-compact" />
     </td>
   </tr>
 </table>
