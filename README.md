@@ -42,6 +42,10 @@
   />
 </picture>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
 <!-- GitHub Activity Graph -->
 <table align="center">
