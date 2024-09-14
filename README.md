@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-TypeScript   25 hrs 15 mins  ████████████████████▓░░░░   82.08 %
-Vue.js       2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-JSON         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Other        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Rust         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+TypeScript   23 hrs 19 mins  ███████████████████░░░░░░   76.21 %
+Vue.js       4 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+JSON         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Rust         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Other        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
