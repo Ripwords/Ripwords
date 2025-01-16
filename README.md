@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2025 - To: 14 January 2025
+From: 08 January 2025 - To: 15 January 2025
 
-TypeScript   24 hrs 52 mins  ████████████████░░░░░░░░░   63.66 %
-Vue.js       8 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-Other        2 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Rust         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-SQL          45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+TypeScript   26 hrs 24 mins  ████████████████▓░░░░░░░░   66.87 %
+Vue.js       8 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
+Other        58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+JSON         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Rust         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
