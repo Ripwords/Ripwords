@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2025 - To: 19 April 2025
+From: 13 April 2025 - To: 20 April 2025
 
-TypeScript   22 hrs 31 mins  ██████████████▒░░░░░░░░░░   57.82 %
-Vue.js       8 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
-JSON         1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Rust         1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Bash         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+TypeScript   22 hrs 20 mins  ███████████████░░░░░░░░░░   60.29 %
+Vue.js       7 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
+JSON         1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Rust         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Docker       1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
