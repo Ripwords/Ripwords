@@ -61,6 +61,24 @@ Prisma       28 mins         ▒░░░░░░░░░░░░░░░░
 <table align="center">
   <tr>
     <td colspan="2">
+      <picture width="100%">
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://gitroll.io/api/badges/profiles/v1/ujIg7pGJT84N39X7OPXI6ZUyWtX43?theme=dark"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://gitroll.io/api/badges/profiles/v1/ujIg7pGJT84N39X7OPXI6ZUyWtX43?theme=light"
+        />
+        <img
+          alt="gitroll profile"
+          src="https://gitroll.io/api/badges/profiles/v1/ujIg7pGJT84N39X7OPXI6ZUyWtX43?theme=light"
+        />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ripwords&area=true&hide_border=true&theme=github-compact" />
     </td>
   </tr>
