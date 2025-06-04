@@ -1,12 +1,7 @@
 ## Hi, I'm [JJ](http://jjteoh.com/)!
 ### Mechatronics Engineer | Software Developer | Astrophotographer
 <div> 
-  <a href="https://www.linkedin.com/in/jjteoh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a target="_blank" href="https://twitter.com/ripwords_"><img src="https://img.shields.io/badge/-Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a target="_blank" href="mailto: teohjjteoh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- </br>
-
-<picture>
+  <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github.com/Ripwords/Ripwords/blob/output/github-contribution-grid-snake-dark.svg"
