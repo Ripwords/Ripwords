@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2025 - To: 13 September 2025
+From: 07 September 2025 - To: 14 September 2025
 
 TypeScript   13 hrs 2 mins   ██████████████████▓░░░░░░   75.24 %
 SQL          1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
