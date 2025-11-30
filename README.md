@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2025 - To: 28 November 2025
+From: 22 November 2025 - To: 29 November 2025
 
-TypeScript   17 hrs 53 mins  █████████████████████▓░░░   86.81 %
-YAML         1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+TypeScript   17 hrs 52 mins  █████████████████████▓░░░   86.63 %
+YAML         1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
