@@ -1,5 +1,8 @@
 ## Hi, I'm [JJ](http://jjteoh.com/)!
 ### Mechatronics Engineer | Software Developer | Astrophotographer
+
+[![committers.top badge](https://user-badge.committers.top/malaysia_private/Ripwords.svg)](https://user-badge.committers.top/malaysia_private/Ripwords)
+
 <div> 
   <picture>
   <source
